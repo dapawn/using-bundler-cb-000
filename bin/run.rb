@@ -1,4 +1,4 @@
-require "hashie" 
+require "hashie"
 require "sinatra"
 require "octokit"
 require "pry"

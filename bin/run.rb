@@ -1,3 +1,5 @@
+require "hashie", "sinatra"
+
 Hashie
 Sinatra
 Octokit
